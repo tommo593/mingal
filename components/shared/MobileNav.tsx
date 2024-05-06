@@ -10,7 +10,7 @@ const MobileNav = () => {
       <Sheet>
         <SheetTrigger className="align-middle">
           <Image
-            src="/assets/icons/menu.svg"
+            src="/assets/icons/mingall_logo.png"
             alt="menu"
             width={25}
             height={24}
@@ -19,7 +19,7 @@ const MobileNav = () => {
         </SheetTrigger>
         <SheetContent className="flex flex-col gap-6 bg-white md:hidden">
           <Image
-            src="/assets/images/logo.svg"
+            src="/assets/images/mingall_logo.png"
             alt="logo"
             width={128}
             height={38}
