@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Mingal",
+  title: "Mingall",
   description: "Plan your next night out here!",
   icons: {
     icon: "/assets/images/logo.svg",
